@@ -26,22 +26,12 @@ This project demonstrates an AI Interview Agent that conducts interviews based o
     pip install -r requirements.txt
     ```
 
-3. **Run the data ingestion script**:
-    ```bash
-    python src/data_ingestion.py
-    ```
-
-4. **Run the question generation script**:
-    ```bash
-    python src/question_generation.py
-    ```
-
-5. **Run the interview agent script**:
+3. **Run the interview agent script**:
     ```bash
     python src/interview_agent.py
     ```
 
-6. **Run the voice interview agent script** (optional):
+4. **Run the voice interview agent script** (optional):
     ```bash
     python src/voice_interview_agent.py
     ```
