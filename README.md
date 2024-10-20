@@ -1,4 +1,4 @@
-# AI Interview Agent POC
+# AI Interview With Talent (POC)
 
 ## Project Overview
 This project demonstrates an AI Interview Agent that conducts interviews based on a given job post, company profile, and candidate resume.
