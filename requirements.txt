@@ -1,0 +1,3 @@
+spacy
+pyttsx3
+SpeechRecognition
