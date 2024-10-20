@@ -1,0 +1,9 @@
+# Ignore virtual environment directories and files
+interview_venv/bin/
+interview_venv/include/
+interview_venv/lib/
+interview_venv/Scripts/
+
+# Track data and src directories inside interview_venv
+!interview_venv/data/
+!interview_venv/src/

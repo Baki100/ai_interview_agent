@@ -1,0 +1,4 @@
+Mission: Our mission is to leverage data to provide innovative solutions that enhance decision-making.
+Vision: We aim to be the global leader in AI and data science.
+Core Values: Innovation, Excellence, Integrity, Teamwork
+About Us: Founded in 2010, our company has grown into a leader in the AI space, employing over 500 data scientists and engineers worldwide. We specialize in machine learning, big data, and deep learning solutions.
