@@ -4,14 +4,35 @@
 This project demonstrates an AI Interview Agent that conducts interviews based on a given job post, company profile, and candidate resume.
 
 ## Repository Structure
-├── /interview_venv # Virtual environment directory │\n
-├── /data # Directory for storing data files │ │ ├── company_profile.txt │ │ ├── candidate_resume.txt │ │ └── job_post.txt │ 
-├── /src # Directory for source code │ │ ├── data_ingestion.py │ │ ├── question_generation.py │ │ ├── interview_agent.py │ │ └── voice_interview_agent.py │ 
-├── /include # Virtual environment include files │ 
-├── /lib # Virtual environment libraries │ 
-└── /Scripts # Virtual environment scripts 
-├── README.md # Project documentation 
-├── requirements.txt # Dependencies
+interview_venv/ # Virtual environment directory
+
+├── include/ # Virtual environment include files
+
+├── lib/ # Virtual environment libraries
+
+├── Scripts/ # Virtual environment scripts
+
+data/ # Directory for storing data files
+
+├── company_profile.txt # Company profile (mission, vision, values)
+
+├── candidate_resume.txt # Candidate resume
+
+└── job_post.txt # Job post describing the position
+
+src/ # Directory for source code
+
+├── data_ingestion.py # Script for loading and ingesting data
+
+├── question_generation.py # Script for generating interview questions
+
+├── interview_agent.py # Main script for simulating the interview process
+
+└── voice_interview_agent.py # Optional: Script for voice-based interview agent
+
+README.md # Project documentation
+
+requirements.txt # Dependencies and libraries for the project
 
 
 ## How to Run
