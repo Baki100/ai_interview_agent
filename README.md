@@ -26,6 +26,11 @@ This project demonstrates an AI Interview Agent that conducts interviews based o
     pip install -r requirements.txt
     ```
 
+3. **Run the command**:
+   ```bash
+   python -m spacy download en_core_web_md
+   ```
+
 3. **Run the interview agent script**:
     ```bash
     python src/interview_agent.py
