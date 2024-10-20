@@ -33,11 +33,13 @@ This project demonstrates an AI Interview Agent that conducts interviews based o
 
 3. **Run the interview agent script**:
     ```bash
+    cd interview_venv
     python src/interview_agent.py
     ```
 
 4. **Run the voice interview agent script** (optional):
     ```bash
+    cd interview_venv
     python src/voice_interview_agent.py
     ```
 
